@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "1337839448c6348b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b87dcd873ea2cae7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bf58abf769aa1ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f1f10637e3f8c50",
+    "type": "split",
+    "children": [
+      {
+        "id": "57a178b29b72cffc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "124b543dbf1361f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cf9c33281be811b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a5d9dd795a2f23f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0672b8cef97b1d44",
+    "type": "split",
+    "children": [
+      {
+        "id": "21c9e9fadb416588",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24020efa6c8909ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unknown Words.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "688ec5045ca3d124",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unknown Words.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "deb08198c4379a87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4ec06d7d057681a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4e34e04f0cec561b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unknown Words.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7bf58abf769aa1ae",
+  "lastOpenFiles": [
+    "Automation1.py",
+    "Topics/House-Buildings Term/Bedroom Vocanulary.md",
+    "English World/Unknown Words.md",
+    "English World/Links to learn and check later.md",
+    "English World/Automation1.py",
+    "English World/Z-IMAGES/Pasted image 20260903234057.png",
+    "English World/Z-IMAGES/Pasted image 20261031173818.png",
+    "English World/Z-IMAGES/Pasted image 20260903234040.png",
+    "English World/Z-IMAGES/Pasted image 20260903234016.png",
+    "English World/Z-IMAGES/Pasted image 20260808134957.png",
+    "English World/Z-IMAGES/Pasted image 20260808134940.png",
+    "English World/Z-IMAGES/Pasted image 20260808134909.png",
+    "English World/Z-IMAGES/Pasted image 20260808133415.png",
+    "English World/Z-IMAGES/Pasted image 20260808133229.png",
+    "English World/Z-IMAGES/Pasted image 20260808133039.png",
+    "English World/Z-IMAGES",
+    "English World/Topics/Office/Office Words.md",
+    "English World/Topics/Salary & Money/Contract Terminologies.md",
+    "English World/Topics/Land-Forms & Nature/Untitled.md",
+    "English World/Topics/Mathematics & Numbers/Lessons.md",
+    "English World/Topics/House-Buildings Term/Parts of the House.md",
+    "English World/Topics/House-Buildings Term/Kitchen Vocabulary.md",
+    "English World/Topics/House-Buildings Term/Bedroom Vocanulary.md",
+    "English World/Topics/House-Buildings Term/Bathroom Vocabulary.md",
+    "English World/Topics/Salary & Money",
+    "English World/Topics/Office",
+    "English World/Topics/Land-Forms & Nature",
+    "English World/Topics/Mathematics & Numbers",
+    "English World/Topics/House-Buildings Term",
+    "English World/Topics",
+    "English World/Learning B2+/Mini Shorts/Questions At Amadeus/2. During Incident Calls.md",
+    "English World/Learning B2+/Mini Shorts/Questions At Amadeus/1. Asking for Clarification.md",
+    "English World/Learning B2+/Mini Shorts/Questions At Amadeus/Beginning or ending Shift.md",
+    "English World/Learning B2+/Verbs and phrases/Regular Verbs.md",
+    "English World/Learning B2+/Verbs and phrases/Quick questions to affirm or response a question..md",
+    "English World/Learning B2+/Verbs and phrases/Modal Verbs.md",
+    "English World/Learning B2+/Verbs and phrases/Irregular Verbs.md",
+    "English World/Learning B2+/Verbs and phrases/Idioms.md",
+    "English World/Learning B2+/Verbs and phrases/Grammatical Connectors.md",
+    "English World/Learning B2+/Mini Shorts/Obsidian.md",
+    "English World/Learning B2+/Mini Shorts/Common daily words.md",
+    "English World/Learning B2+/Mini Shorts/Questions At Amadeus",
+    "English World/Learning B2+/Speak with without preparation/Frameworks and trucks.md",
+    "English World/Learning B2+/Verbs and phrases",
+    "English World/Learning B2+/Traffic City.md",
+    "English World/Learning B2+/Technical Term.md"
+  ]
+}
