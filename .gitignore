@@ -1,0 +1,28 @@
+.copilot/
+# Keep Obsidian config except volatile files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/graph.json
+# Keep Obsidian config except volatile files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/graph.json
+.obsidian/workspace.json
+.obsidian/
+
+# Keep plugins tracked if you want reproducible setup
+# .obsidian/plugins/
+
+# System junk
+.DS_Store
+Thumbs.db
+# Keep plugins tracked if you want reproducible setup
+# .obsidian/plugins/
+
+# System junk
+.DS_Store
+Thumbs.db
+
+.trash
